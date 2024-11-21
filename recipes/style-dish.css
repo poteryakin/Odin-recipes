@@ -1,0 +1,32 @@
+#title-dish {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.description-dish {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.description-text {
+    width: 50%;
+    text-align: justify;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#ingredients {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#steps {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
